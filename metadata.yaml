@@ -1,0 +1,29 @@
+_repo: The-Postage-Stamp-in-War_34007
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Melville, Frederick John
+    alias: Melville, Fred J. (Fred John)
+    birthdate: 1882
+    deathdate: 1940
+    gutenberg_agent_id: '32116'
+    url: http://www.gutenberg.org/2009/agents/32116
+    wikipedia: http://en.wikipedia.org/wiki/Fred_Melville
+description: ''
+gutenberg_issued: '2010-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34007'
+  lccn: '51045474'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HE'
+- !lcsh 'Postage stamps'
+title: The Postage Stamp in War
+url: http://www.gutenberg.org/ebooks/34007
